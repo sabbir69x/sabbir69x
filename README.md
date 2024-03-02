@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 # 💫 About Me:
 🌱 I’m currently developing skills
 
