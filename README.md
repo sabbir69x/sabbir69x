@@ -1,7 +1,7 @@
 <div align="center">
 
 # ABOUT ME
-🌱 I’m currently developing skills
+HEART MADE OF MUSIC
 
 
 # MY SOCIAL'S
