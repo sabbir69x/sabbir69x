@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SABB!R :)</h1>
-<h3 align="center">A tech enthusiast from Bangladesh!</h3>
+<h1 align="left">Hi 👋, I'm SABB!R :)</h1>
+<h3 align="left">A tech enthusiast from Bangladesh!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir69x&label=Profile%20views&color=000012&style=flat" alt="sabbir69x" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [www.sabbirtune.xyz](www.sabbirtune.xyz)
+- 📝 Sometimes i write articles on [www.sabbirtune.xyz](www.sabbirtune.xyz)
 
-- 📫 How to reach me **itzyoursabbir@gmail.com**
+- 📫 Mail to reach me **itzyoursabbir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
