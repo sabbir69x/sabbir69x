@@ -1,5 +1,5 @@
 <div align="center">
-# ABOUT ME<br></br>
+# ABOUT ME
 🌱 I’m currently developing skills
 
 
