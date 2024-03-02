@@ -1,7 +1,7 @@
 <div align="center">
 
 # ABOUT ME
-HEART MADE OF MUSIC
+Heart made of music ♫
 
 
 # MY SOCIAL'S
