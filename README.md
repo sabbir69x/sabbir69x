@@ -12,12 +12,13 @@
 - 📫 Mail to reach me **itzyoursabbir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sabbir69x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabbir69x" height="30" width="40" /></a>
-<a href="https://fb.com/sabbir.69x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir.69x" height="30" width="40" /></a>
-<a href="https://instagram.com/sabbir.69x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabbir.69x" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sabbirsworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sabbirsworld" height="30" width="40" /></a>
-<a href="https://discord.gg/sabbir69x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabbir69x" height="30" width="40" /></a>
-</p>
+<div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  </div>
+<br>
+<p align="center">Hewe awe some of my <br>
+most used s-s-sociaw things >~< xoxox</p>
+<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbir69x&show_icons=true&theme=dark&locale=en" alt="sabbir69x" /></p>
