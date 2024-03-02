@@ -1,3 +1,4 @@
+<div align="left">
 # 💫 About Me:
 🌱 I’m currently developing skills
 
@@ -10,6 +11,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sabbir69x&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sabbir69x&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir69x&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir69x&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
